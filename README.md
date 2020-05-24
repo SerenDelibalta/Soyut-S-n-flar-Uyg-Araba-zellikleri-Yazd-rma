@@ -1,0 +1,1 @@
+# Soyut-S-n-flar-Uyg-Araba-zellikleri-Yazd-rma
