@@ -1,5 +1,4 @@
-
-
+// Soyut sınıf, Arabanın Özellikleri; renk, model gibi ve yakıt  litresini ekrana yazdıran prog
 package final_uyg1;
 
 public class Final_Uyg1 {
