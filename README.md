@@ -1,1 +1,1 @@
-# Soyut-S-n-flar-Uyg-Araba-zellikleri-Yazd-rma
+# Soyut-Siniflar-Uyg-Araba-Ozellikleri-Yazdirma
